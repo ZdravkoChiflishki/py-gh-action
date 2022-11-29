@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from py_gh_action.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "py_gh_action"
